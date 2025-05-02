@@ -13,7 +13,7 @@ $ nslookup example.com <br>
 Catat IP Address dari Website tersebut...<br><br>
 
 Kalau semua sudah siap, masuk ke direktori <br>
-$ cd ddos-plankdev<br>
+$ cd ddosplank<br>
 $ python plankdev.py -s [ip Address] -t 135<br>
 contoh:<br>
 $ python plankdev.py -s 123.45.67.89 -t 135<br>
